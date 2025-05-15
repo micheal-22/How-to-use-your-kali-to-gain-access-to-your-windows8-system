@@ -1,4 +1,4 @@
-## STEP:
+### STEP:
 
 Check your **IP ADDRESS** for both your kali and your windows8 system ensure to ping to both devices and get a response, go to your kali and start your **POSTGRESQL START** and also your **MSFDB INIT** service.
 
